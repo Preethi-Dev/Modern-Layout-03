@@ -48,6 +48,10 @@ header nav a {
   text-decoration: none;
 }
 
+header nav a:nth-child(2) {
+  text-align: right;
+}
+
 main > p {
   font-family: "Space Mono";
   font-style: normal;
